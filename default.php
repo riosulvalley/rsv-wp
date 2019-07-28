@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Rio Sul Valley</title>
+    <title>Autodeploy test</title>
     <meta charset="utf-8">
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta content="Página padrão" name="description">
